@@ -1,4 +1,4 @@
-<img src="preview/AppIcon.png" width="60" height="58" align="left" />
+<img src="preview/AppIcon.png" align="left" />
 
 # Weka Data Generator
 
